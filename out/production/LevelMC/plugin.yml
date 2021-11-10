@@ -1,0 +1,11 @@
+name: LevelMC
+version: 1.0B
+author: Lars "Devilmine" Racshke
+main: Devilmine.LevelMC.onStartup
+api-version: 1.17
+
+commands:
+  levelmc:
+    description: "LevelMC overall commands"
+    usage: §c/levelmc <info/version>
+    permission: LevelMC.useLevelMC
