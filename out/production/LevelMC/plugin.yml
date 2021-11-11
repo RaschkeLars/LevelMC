@@ -1,6 +1,6 @@
 name: LevelMC
 version: 1.0B
-author: Lars "Devilmine" Racshke
+author: Lars "Devilmine" Raschke
 main: Devilmine.LevelMC.onStartup
 api-version: 1.17
 

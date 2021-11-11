@@ -24,6 +24,7 @@ public class onStartup extends JavaPlugin implements Listener {
 
         // Register events
         Bukkit.getPluginManager().registerEvents(new Listeners(), this);
+        Bukkit.getPluginManager().registerEvents(new Leveling(), this);
 
         // Create command "LevelMC"
         Objects.requireNonNull(this.getCommand("levelmc")).setExecutor(new CommandHandler());
