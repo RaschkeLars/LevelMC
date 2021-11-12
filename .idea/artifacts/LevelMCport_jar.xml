@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LevelMCport:jar">
+    <output-path>$PROJECT_DIR$/../../../MCServ/plugins</output-path>
+    <root id="archive" name="LevelMC.jar">
+      <element id="module-output" name="LevelMC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Dependencies/API's/spigot-api-1.17.1-R0.1-20211111.074512-98.jar" path-in-jar="/" />
+      <element id="library" level="project" name="spigot-api-1.17.1-R0.1-20211111.074512-98-javadoc" />
+      <element id="library" level="project" name="spigot-api-1.17.1-R0.1-20211105.101322-97-javadoc" />
+      <element id="library" level="project" name="spigot-api-1.17.1-R0.1-20211105.101322-97" />
+    </root>
+  </artifact>
+</component>
